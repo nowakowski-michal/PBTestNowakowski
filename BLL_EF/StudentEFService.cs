@@ -18,6 +18,26 @@ namespace BLL_EF
         {
             _dbContext = dbContext;
         }
+        // POLECENIE 8  RELACJA W MODELU DZIAŁA
+        public string GetFullGroupName(Grupa grupa)
+        {
+            if (grupa == null)
+            {
+                return "brak";
+            }
+
+            var groupName = grupa.Nazwa != null ? grupa.Nazwa : "brak";
+
+            if (grupa.ParentId != null)
+            {
+                var parentGroup = _dbContext.Grupy.Find(grupa.ParentId);
+                var parentGroupName = GetFullGroupName(parentGroup);
+                groupName = $"{parentGroupName} > {groupName}";
+            }
+
+            return groupName;
+        }
+
         public StudentResponseDTO AddStudent(StudentRequestDTO student)
         {
             Student newStudent = new Student
@@ -40,7 +60,7 @@ namespace BLL_EF
                 Id = result.Id,
                 Imie = result.Imie,
                 Nazwisko = result.Nazwisko,
-                NazwaGrupy = result.Grupa.Nazwa != null ? result.Grupa.Nazwa : "brak"
+                NazwaGrupy = GetFullGroupName(result.Grupa)
             };
         }
 
@@ -53,6 +73,7 @@ namespace BLL_EF
             }
             else
             {
+                /* do testu 
                 //wg mnie to dto nie ma tu sensu ale bylo w poleceniu aby stworzyć to jest :)
                 HistoriaRequestDTO historia = new HistoriaRequestDTO
                 {
@@ -70,6 +91,7 @@ namespace BLL_EF
                     IdGrupy = historia.IdGrupy,
                     TypAkcji = (TypAkcji)Enum.Parse(typeof(TypAkcji), historia.TypAkcji.ToString())
                 });
+                */
                 _dbContext.Studenci.Remove(user);
                 _dbContext.SaveChanges();
                 return true;
@@ -85,7 +107,7 @@ namespace BLL_EF
                 Id = p.Id,
                 Imie = p.Imie,
                 Nazwisko = p.Nazwisko,
-                NazwaGrupy = p.Grupa.Nazwa != null ? p.Grupa.Nazwa : "brak"
+                NazwaGrupy = GetFullGroupName(p.Grupa)
 
             }).ToList();
 
@@ -100,7 +122,7 @@ namespace BLL_EF
                        Id = o.Id,
                        Imie = o.Imie,
                        Nazwisko = o.Nazwisko,
-                       NazwaGrupy = o.Grupa.Nazwa != null ? o.Grupa.Nazwa : "brak"
+                       NazwaGrupy = GetFullGroupName(o.Grupa)
 
                    }).ToList();
         }
@@ -134,7 +156,7 @@ namespace BLL_EF
                     Id = user.Id,
                     Imie = user.Imie,
                     Nazwisko = user.Nazwisko,
-                    NazwaGrupy = user.Grupa.Nazwa != null ? user.Grupa.Nazwa : "brak"
+                    NazwaGrupy = GetFullGroupName(user.Grupa)
                 };
             }
         }
@@ -150,6 +172,8 @@ namespace BLL_EF
             }
             else
             {
+                /*
+                 //do testu
                 //wg mnie to dto nie ma tu sensu ale bylo w poleceniu aby stworzyć to jest :)
                 HistoriaRequestDTO historia = new HistoriaRequestDTO
                 {
@@ -170,7 +194,8 @@ namespace BLL_EF
                     IdGrupy = historia.IdGrupy,
                     TypAkcji = (TypAkcji)Enum.Parse(typeof(TypAkcji), historia.TypAkcji.ToString())
                 });
-
+                */
+                result.IdGrupy = groupId;
                 _dbContext.SaveChanges();
            
                 return true;

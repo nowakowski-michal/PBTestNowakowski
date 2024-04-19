@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj": {}
+    "E:\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj": {
+    "E:\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj",
+        "projectUniqueName": "E:\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj",
+        "projectPath": "E:\\NowakowskiKol\\NowakowskiKolPB\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Student RM4-3073 06.IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\BLL\\obj\\",
+        "outputPath": "E:\\NowakowskiKol\\NowakowskiKolPB\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student RM4-3073 06.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,3 +17,22 @@ C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\Models.pdb
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.AssemblyReference.cache
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.Up2Date
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\BLL_EF.deps.json
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\BLL_EF.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\BLL_EF.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\DAL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\Models.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\BLL.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\DAL.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\bin\Debug\net8.0\Models.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.AssemblyReference.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.AssemblyInfoInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.AssemblyInfo.cs
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.CoreCompileInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.Up2Date
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\refint\BLL_EF.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\BLL_EF.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_EF\obj\Debug\net8.0\ref\BLL_EF.dll

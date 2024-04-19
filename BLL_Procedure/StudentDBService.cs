@@ -1,5 +1,6 @@
 ﻿using BLL.DtoModels;
 using BLL.ServiceInterface;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -62,10 +63,12 @@ namespace BLL_Procedure
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                string query = "dbo.GetUsers";
+                string query = "dbo.GetHistoryPaginated";
 
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
+                    command.Parameters.AddWithValue("@Offset",strona);
+                    command.Parameters.AddWithValue("@PageSize", ilosc);
                     command.CommandType = CommandType.StoredProcedure;
                     SqlDataReader reader = command.ExecuteReader();
 

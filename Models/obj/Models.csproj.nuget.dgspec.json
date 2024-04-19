@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj": {}
+    "E:\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj": {
+    "E:\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj",
+        "projectUniqueName": "E:\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj",
+        "projectPath": "E:\\NowakowskiKol\\NowakowskiKolPB\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Student RM4-3073 06.IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\Models\\obj\\",
+        "outputPath": "E:\\NowakowskiKol\\NowakowskiKolPB\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student RM4-3073 06.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

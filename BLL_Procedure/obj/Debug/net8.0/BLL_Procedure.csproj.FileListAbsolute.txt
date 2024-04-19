@@ -13,3 +13,18 @@ C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_Proced
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\refint\BLL_Procedure.dll
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.pdb
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\ref\BLL_Procedure.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.csproj.AssemblyReference.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.GeneratedMSBuildEditorConfig.editorconfig
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.AssemblyInfoInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.AssemblyInfo.cs
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.csproj.CoreCompileInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\refint\BLL_Procedure.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Procedure.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\bin\Debug\net8.0\BLL_Procedure.deps.json
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\bin\Debug\net8.0\BLL_Procedure.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\bin\Debug\net8.0\BLL_Procedure.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\bin\Debug\net8.0\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\bin\Debug\net8.0\BLL.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\BLL_Proc.3BB3B8F2.Up2Date
+E:\NowakowskiKol\NowakowskiKolPB\BLL_Procedure\obj\Debug\net8.0\ref\BLL_Procedure.dll

@@ -8,10 +8,10 @@ namespace BLL.DtoModels
 {
     public class HistoriaRequestDTO
     {
-        public string Imie { get; set; }
-        public string Nazwisko { get; set; }
-        public int? IdGrupy { get; set; }
-        public int TypAkcji { get; set; }
-        public DateTime DateTime { get; set; }
+        public string Imie { get; init; }
+        public string Nazwisko { get; init; }
+        public int? IdGrupy { get; init; }
+        public int TypAkcji { get; init; }
+        public DateTime DateTime { get; init; }
     }
 }

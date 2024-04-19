@@ -9,3 +9,14 @@ C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\Models\obj
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\refint\Models.dll
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\ref\Models.dll
+E:\NowakowskiKol\NowakowskiKolPB\Models\bin\Debug\net8.0\Models.deps.json
+E:\NowakowskiKol\NowakowskiKolPB\Models\bin\Debug\net8.0\Models.dll
+E:\NowakowskiKol\NowakowskiKolPB\Models\bin\Debug\net8.0\Models.pdb
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.dll
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\refint\Models.dll
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\Models.pdb
+E:\NowakowskiKol\NowakowskiKolPB\Models\obj\Debug\net8.0\ref\Models.dll

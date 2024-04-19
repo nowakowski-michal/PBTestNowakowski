@@ -9,3 +9,14 @@ C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL\obj\De
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Student RM4-3073 06.IT\Desktop\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\ref\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\NowakowskiKol\NowakowskiKolPB\BLL\bin\Debug\net8.0\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL\bin\Debug\net8.0\BLL.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\BLL.pdb
+E:\NowakowskiKol\NowakowskiKolPB\BLL\obj\Debug\net8.0\ref\BLL.dll

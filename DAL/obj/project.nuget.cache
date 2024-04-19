@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O4WicDsMXaS3h+VAh8uWEOkXG7FYh01HrAbTacGIJpocV+i8LtUM4RZD/lRDKwP0yZ0G1RkOY/cBdWmoOiJRMA==",
+  "dgSpecHash": "NrPd6Gp16+ccsCrwqgprUmps/GGPJ42V+KbSlS7H7IOlPytI3srs/KE6d6j45wIsYLmZwCQFaayOM2VqucdALg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student RM4-3073 06.IT\\Desktop\\NowakowskiKol\\NowakowskiKolPB\\DAL\\DAL.csproj",
+  "projectFilePath": "E:\\NowakowskiKol\\NowakowskiKolPB\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student RM4-3073 06.IT\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Student RM4-3073 06.IT\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
