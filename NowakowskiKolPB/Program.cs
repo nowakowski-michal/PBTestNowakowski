@@ -1,6 +1,7 @@
 
 using BLL.ServiceInterface;
 using BLL_EF;
+using BLL_Procedure;
 using DAL;
 
 namespace NowakowskiKolPB
@@ -17,6 +18,7 @@ namespace NowakowskiKolPB
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddDbContext<WebContext>();
             builder.Services.AddScoped<IStudentEF,StudentEFService>();
+            builder.Services.AddScoped<IStudentDB,StudentDBService>();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 

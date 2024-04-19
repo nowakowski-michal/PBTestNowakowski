@@ -9,7 +9,7 @@ namespace NowakowskiKolPB.Controllers
     [ApiController]
     public class StudentEFController : ControllerBase
     {
-        private readonly IStudentEF _studentService;
+        private readonly IStudentEF _studentService;  //interfejs dla EF
 
         public StudentEFController(IStudentEF studentService)
         {

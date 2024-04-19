@@ -1,5 +1,42 @@
 [
   {
+    "ContainingType": "NowakowskiKolPB.Controllers.StudentDBProcedureController",
+    "Method": "AddStudent",
+    "RelativePath": "api/StudentDBProcedure",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "BLL.DtoModels.StudentRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NowakowskiKolPB.Controllers.StudentDBProcedureController",
+    "Method": "GetHistoryPaginated",
+    "RelativePath": "api/StudentDBProcedure/history/paginated{strona}/{ilosc}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "strona",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ilosc",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "NowakowskiKolPB.Controllers.StudentEFController",
     "Method": "AddStudent",
     "RelativePath": "api/StudentEF",
